@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-11T03:09:18 EDT" name="Default suite" finished-at="2024-05-11T03:09:34 EDT" duration-ms="16337">
+    <groups>
+    </groups>
+    <test started-at="2024-05-11T03:09:18 EDT" name="Default test" finished-at="2024-05-11T03:09:34 EDT" duration-ms="16337">
+      <class name="Automation.Legal_HomePage_Test">
+        <test-method is-config="true" signature="TestInitialise()[pri:0, instance:Automation.Legal_HomePage_Test@29647f75]" started-at="2024-05-11T03:09:18 EDT" name="TestInitialise" finished-at="2024-05-11T03:09:22 EDT" duration-ms="4365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestInitialise -->
+        <test-method signature="LegalLogin_Test()[pri:0, instance:Automation.Legal_HomePage_Test@29647f75]" started-at="2024-05-11T03:09:22 EDT" name="LegalLogin_Test" finished-at="2024-05-11T03:09:33 EDT" duration-ms="11054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LegalLogin_Test -->
+        <test-method is-config="true" signature="TestTearDown()[pri:0, instance:Automation.Legal_HomePage_Test@29647f75]" started-at="2024-05-11T03:09:33 EDT" name="TestTearDown" finished-at="2024-05-11T03:09:34 EDT" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTearDown -->
+      </class> <!-- Automation.Legal_HomePage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
